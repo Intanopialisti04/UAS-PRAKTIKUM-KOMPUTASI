@@ -1,0 +1,1 @@
+# UAS_No1_Menyelesaikan-Integral-menggunakan-metode-Trapezoid
