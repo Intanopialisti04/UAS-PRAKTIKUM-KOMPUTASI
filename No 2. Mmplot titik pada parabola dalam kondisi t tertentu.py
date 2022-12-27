@@ -36,6 +36,6 @@ F = (n-1)*((1/R1)+(1/R2))
 F = 1/F
 
 print("-"*40)
-print("Jarak Fokus Lensa = ",F)
+print("Jarak Parabola = ",F)
 
 
